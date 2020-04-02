@@ -1,3 +1,6 @@
 theme: jekyll-theme-architect
 title: "DEERGAMES"
 description: "Yenilikçi ve Eğlenceli mobil oyun ve uygulamalar geliştiriyoruz."
+github:
+  zip_url: https://play.google.com/store/apps/dev?id=4980008617130346507
+  another_url: Uygulamalarımız için tıklayınız
