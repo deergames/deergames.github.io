@@ -11,3 +11,6 @@ Modern alarm clock to help improve your drinking water habits.
 
 ## KART EŞLEŞTİRME YARIŞMASI | ANDROID
 Hadi Hafızanı Test Et!
+
+## TARİH KARTLARI | IOS
+Tarih meraklıları için hazırlanmış yüzlerce soru.
