@@ -14,3 +14,6 @@ Hadi Hafızanı Test Et!
 
 ## TARİH KARTLARI | IOS
 Tarih meraklıları için hazırlanmış yüzlerce soru.
+
+## GÜNCEL KARTLARI | IOS
+En Etkili Güncel Bilgiler Uygulaması - Hadi Kendinizi Test Edin!
