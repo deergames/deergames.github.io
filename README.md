@@ -17,3 +17,6 @@ Tarih meraklıları için hazırlanmış yüzlerce soru.
 
 ## GÜNCEL KARTLARI | IOS
 En Etkili Güncel Bilgiler Uygulaması - Hadi Kendinizi Test Edin!
+
+## COĞRAFYA KARTLARI | IOS
+Coğrafya meraklıları için hazırlanmış yüzlerce soru.
