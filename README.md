@@ -20,3 +20,6 @@ En Etkili Güncel Bilgiler Uygulaması - Hadi Kendinizi Test Edin!
 
 ## COĞRAFYA KARTLARI | IOS
 Coğrafya meraklıları için hazırlanmış yüzlerce soru.
+
+## VATANDAŞLIK KARTLARI | IOS
+Benzersiz ve dolu dolu içeriğiyle en etkili Vatandaşlık Uygulaması
